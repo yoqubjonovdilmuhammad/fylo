@@ -36,20 +36,20 @@ section {
   line-height: 1.5;
 }
 
-.features__container {
+.about__container {
   width: 900px;
   padding-bottom: 14rem;
 }
-.features__list {
+.about__list {
   text-align: center;
   display: flex;
   gap: 14.7rem;
 }
-.features__img {
+.about__img {
   margin-right: auto;
   margin-left: auto;
 }
-.features__title {
+.about__title {
   color: #fff;
   text-align: center;
   font-family: "Raleway";
@@ -58,9 +58,8 @@ section {
   font-weight: 700;
   line-height: normal;
   text-align: center;
-
 }
-.feature {
+.about {
   color: #fff;
   text-align: center;
   font-family: Open "Sans";
@@ -90,7 +89,7 @@ section {
     font-size: 1.4rem;
     padding-bottom: 4.8rem;
   }
-  .features__container {
+  .about__container {
     padding-bottom: 10rem;
     width: 330px;
     margin-right: auto;
@@ -98,7 +97,7 @@ section {
     text-align: center;
     align-items: center;
   }
-  .features__list {
+  .about__list {
     gap: 0;
     flex-direction: column;
     text-align: center;
