@@ -551,11 +551,11 @@ h4 {
   line-height: 24px; /* 150% */
 }
 
-.cta__list li {
+.content__list li {
   display: flex;
   margin-bottom: 16px;
 }
-.cta__list li .cta__pochta {
+.content__list li .content__pochta {
   color: #fff;
   text-align: center;
   font-family: Open "Sans";
@@ -564,10 +564,10 @@ h4 {
   font-weight: 400;
   line-height: 21px; /* 150% */
 }
-.cta__list li img {
+.content__list li img {
   padding-right: 23px;
 }
-.cta__list li a {
+.content__list li a {
   color: #fff;
   text-align: center;
   font-family: Open "Sans";
@@ -725,7 +725,8 @@ section {
     line-height: 1.5;
     font-weight: 700;
     font-size: 2.4rem;
-    padding-right: 2.8rem;
+    margin-right: auto;
+    margin-left: auto;
   }
   .hero__desc__wrapper {
     width: 296px;
@@ -765,6 +766,7 @@ section {
        object-fit: cover;
   }
   .services__title {
+    padding: 0;
     width: 290px;
     font-size: 1.6rem;
     line-height: 13.3;

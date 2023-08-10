@@ -118,7 +118,8 @@ section {
     line-height: 1.5;
     font-weight: 700;
     font-size: 2.4rem;
-    padding-right: 2.8rem;
+    margin-right: auto;
+    margin-left: auto;
   }
   .hero__desc__wrapper {
     width: 296px;
@@ -160,6 +161,7 @@ section {
   .services__desc {
   }
   .services__title {
+    padding: 0;
     width: 290px;
     font-size: 1.6rem;
     line-height: 13.3;
@@ -168,5 +170,4 @@ section {
     font-size: 1.4rem;
     width: 320px;
   }
- 
 }
